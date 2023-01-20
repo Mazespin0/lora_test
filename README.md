@@ -1,7 +1,7 @@
 Pinout:
 
 esp 32:
-  NSS - 5
+  NSS - 5 \n
   RESET - 15
   DIO0 - любой // не подключен DIO0 pin is optional, it is only needed for receive callback mode
   SCK - 18
