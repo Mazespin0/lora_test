@@ -34,3 +34,7 @@ atmega:
   - https://github.com/sandeepmistry/arduino-LoRa
 
 
+  datasheet LoRa - [RFM95_96_97_98W.pdf](https://github.com/Mazespin0/lora_test/files/10466128/RFM95_96_97_98W.pdf)
+
+
+
