@@ -32,6 +32,5 @@ atmega:
   Библиотека для LoRa:
   
   - https://github.com/sandeepmistry/arduino-LoRa
-  - https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
 
 
